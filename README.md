@@ -14,7 +14,7 @@
 - 🐲 Looking for a buddy? If you like *Baldur's Gate III*, *Skyrim*, *AC*, creative writing of any kind, or perhaps are interested in game development, let's get in touch!
 - 🦕 I happen to find myself in the possession of a mind like Frodo and knees like Gandalf. 
 ---
-### :hammer_and_wrench: Languages and Tools 
+### Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="Dotnet" width="40" height="40"/>&nbsp;
