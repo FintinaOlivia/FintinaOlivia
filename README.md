@@ -7,7 +7,7 @@
 </div>
 
 ### About Me 
-🧙🔮 Computer Science Student @BBU 🔮🧙
+🧙🔮 Second Year Computer Science Student @Babes-Bolyai University 🔮🧙
 
 - 🔭 I’m currently working on a full stack application that can be found <a href="https://github.com/FintinaOlivia/Media-Content-Analysis-App">here!</a>
 - ✨ I’m currently learning Node and JavaScript, though I am enthusiastic about learning *Rust* soon 😺
