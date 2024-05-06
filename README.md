@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRtdnhreGp4bzE0MWh1bmkzZmxrMjczZHhrNG13YzNpMmxldnR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif"  width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRtdnhreGp4bzE0MWh1bmkzZmxrMjczZHhrNG13YzNpMmxldnR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif"  width="222" />
   
   ![Visitor Count](https://profile-counter.glitch.me/FintinaOlivia/count.svg)
 
