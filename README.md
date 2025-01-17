@@ -3,14 +3,13 @@
   
   ![Visitor Count](https://profile-counter.glitch.me/FintinaOlivia/count.svg)
 
-  Don't be shy, come say hi!
 </div>
 
 ### About Me 
-🧙🔮 Second Year Computer Science Student @Babes-Bolyai University 🔮🧙
+🧙🔮 Third Year Computer Science Student @Babes-Bolyai University 🔮🧙
 
 - 🔭 I’m currently working on a full stack application that can be found <a href="https://github.com/FintinaOlivia/Media-Content-Analysis-App">here!</a>
-- ✨ I’m currently learning Node and JavaScript, though I am enthusiastic about learning *Rust* soon 😺
+- ✨ I’m currently working as a full-stack developer, with the main tech stack being .NET and React. 😺
 - 🐲 Looking for a buddy? If you like *Baldur's Gate III*, *Skyrim*, *AC*, creative writing of any kind, or perhaps are interested in game development, let's get in touch!
 - 🦕 I happen to find myself in the possession of a mind like Frodo and knees like Gandalf. 
 ---
